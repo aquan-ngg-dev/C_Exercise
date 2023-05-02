@@ -16,5 +16,6 @@ int main(){
    char a[10005];
    gets(a);
    printf("%s",a);
-//    Nguyen Anh Quan coded this file.
+    //    Nguyen Anh Quan coded this file.
+    // Nguyen Anh Quan noted this text.
 }
