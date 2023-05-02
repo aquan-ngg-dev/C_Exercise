@@ -17,5 +17,5 @@ int main(){
    gets(a);
    printf("%s",a);
     //    Nguyen Anh Quan coded this file.
-    // Nguyen Anh Quan noted this text.
+    // Nguyen Anh Quan noted this text. Leu leu 
 }
